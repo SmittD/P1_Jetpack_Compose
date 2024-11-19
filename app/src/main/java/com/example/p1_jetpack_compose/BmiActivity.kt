@@ -18,11 +18,10 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.p1_jetpack_compose.ui.theme.P1_Jetpack_ComposeTheme
 import com.example.p1_jetpack_compose.ui.theme.*
+import com.example.p1_jetpack_compose.ui.theme.P1_Jetpack_ComposeTheme
 
 class BmiActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
